@@ -7,3 +7,5 @@ As stated above , the main purpose is to provide simple examples for Git trainin
 <h4>Deployment</h4>
 This is a simple web project, deployment can be on any web server or even local file system.
 <h5>How To Contribute</h5>
+<h6>Copyright</h6>
+2021 Dhruv Jadvani
