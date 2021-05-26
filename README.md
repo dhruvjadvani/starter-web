@@ -1,5 +1,6 @@
 <h1>Starter Web Project</h1>
 This is simple website project for showing how to use Git and Github together.
+Adding line for rebasing example.
 <h2>Introduction</h2>
 This is example is to show different parts of the git repository and various commands using a web project.
 <h3>Purpose</h3>
