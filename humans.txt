@@ -1,9 +1,10 @@
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dhruv Jadvani dhruv.jadvani@gmail.com dhruv_jadvani
 
 # THANKS
 
