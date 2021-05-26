@@ -8,8 +8,8 @@
 
 # THANKS
 
-    <name>
-
+    I want to thank me
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
